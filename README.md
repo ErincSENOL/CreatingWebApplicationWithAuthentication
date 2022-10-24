@@ -13,7 +13,7 @@ Creating Asp.Net Core Project With Authentication
 4- Açılan ekrana "Update-Database" yazıldıktan sonra lokalde bulunan  (localdb)MSSQLLocalDB(SQL Server 13) altına veritabanı oluşmuş olacaktır.
 
 *************************************************************
-Login,Register, LogOut sayfalarında düzenleme yapılmak istendiğinde aşağıdaki adımlar izlenmelidir.
+Login,Register, LogOut sayfalarında düzenleme yapılmak istendiğinde aşağıdaki adımlar izlenmelidir. Çünkü bu sayfalar proje oluştuğunda gösterilmemektedir.
 
 ![image](https://user-images.githubusercontent.com/82088135/197621666-5e03225c-757e-424d-b4cb-cd5fb6f20d5d.png)
 
